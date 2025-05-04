@@ -3,8 +3,9 @@
 @section('title', 'Classes')
 
 @section('content')
-<div class="container py-5">
-    <h1 class="text-center">Classes</h1>
-    <p class="text-center">This page will contain all the information related to character classes.</p>
+
+<br><br><br><br>
+<div class="row g-1 justify-content-center">
+
 </div>
 @endsection
